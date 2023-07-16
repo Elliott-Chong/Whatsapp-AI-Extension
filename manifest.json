@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Only Love Extension",
-  "description": "Replaces all instances of the word 'hate' with 'love' ",
+  "name": "Whatsapp AI Chrome Extension",
+  "description": "Chrome extension that uses google's Vertex AI to give you AI auto completion for your texts in whatsapp web :) ",
   "version": "1.0",
   "action": {
     "default_popup": "popup.html"
