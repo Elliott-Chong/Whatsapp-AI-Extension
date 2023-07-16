@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Only Love Extension",
+  "description": "Replaces all instances of the word 'hate' with 'love' ",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "declarativeContent", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
